@@ -34,11 +34,10 @@ A streamlined script to build **Minecraft plugins** on macOS with support for bo
 ## 🚀 Quick Start
 
 ```bash
-# 1. Download script
-curl -O https://raw.githubusercontent.com/your-repo/build_plugin.sh
+# 1. Download and move to your desktop
 
-# 2. Make executable
-chmod +x build_plugin.sh
+# 2. Grant execution rights
+cd Desktop
+chmod 755 plugintool.sh
 
-# 3. Run it!
-./build_plugin.sh
+# 3. Run it! Drag the file from your desktop to the terminal and press enter
